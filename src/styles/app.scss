@@ -1,0 +1,9 @@
+// this file holds global scss configuration and will be
+// imported in every component by the scss cssLoader
+
+// foundation base settings
+@import "./foundation-settings";
+
+// Load Foundation
+@import "~foundation-sites/scss/foundation";
+
